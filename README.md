@@ -1,1 +1,8 @@
 # CS-370
+In this project I was given all the base code except the Q-learning algorithm. I read through the project proposal and planned on how to best complete the pirate pathfinding AI.  It took several attempts and once it was running, I tried to optimize it. Ultimately, through several iterations, I  developed a q- learning algorithm that can successfully navigate a maze to an end goal.
+•	What do computer scientists do and why does it matter?
+Computer Scientists can do a wide variety of things. Anything from creating websites, creating games to creating large and complex neural networks.  These things matter because of the age we live in, computers are a very big part of how we as humans now interact with the world, consume media and interact with eachother.
+•	How do I approach a problem as a computer scientist?
+I always approach problems as a computer scientist with curiosity, and I have had many problems to be curious about. Ultimately, those problems that are the most challenging become the most rewarding once you solve them. It takes curiosity to ask why this is happening or how can we best approach this is. Curiosity to develop new approaches to old problems and curiosity to question why we have always done some things in certain ways.
+•	What are my ethical responsibilities to the end user and the organization?
+As a computer scientist I feel you have a tremendous ethical responsibility to the end user and the organization. To the end user, you owe them the safeguarding of their data and to only use their information in ways that they have consented for it to be used.  To the company we owe them diligence to protect them from any data breaches and to call out unsafe practices and vulnerabilities.
